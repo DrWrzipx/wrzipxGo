@@ -6,6 +6,6 @@ import (
 )
 
 func main()  {
-	fmt.Println(stringutil.Reverse("OG OLLEH"))
+	fmt.Println(stringutil.Reverse("!OG OLLEH"))
 	fmt.Println(stringutil.MyName)
 }
